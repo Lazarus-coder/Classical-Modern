@@ -1,0 +1,5 @@
+2026-04-15 21:18:59 | INFO | Log file: /Users/aojiang/nltk_data/573data/Classical-Modern/outputs_smoke_live/logs/run_all_20260415_211859.log
+2026-04-15 21:19:03 | INFO | Discovered 7304 aligned folders with 972467 total records.
+2026-04-15 21:19:03 | INFO | Translation stage complete: {"raw_output_path": "outputs_smoke_live/raw/translations.jsonl", "translated_records": 0, "successful_records": 0, "failed_records": 0, "skipped_completed_records": 3}
+2026-04-15 21:19:03 | INFO | Scoring stage complete: {"scored_output_path": "outputs_smoke_live/scored/translations_scored.jsonl", "processed_records": 0, "passed_records": 0, "skipped_existing_records": 3}
+2026-04-15 21:19:03 | INFO | Filtering stage complete: {"filtered_output_path": "outputs_smoke_live/filtered/high_quality_parallel.jsonl", "filtered_csv_path": "outputs_smoke_live/filtered/high_quality_parallel.csv", "passed_records_written": 0, "skipped_existing_records": 2, "total_filtered_records": 2}

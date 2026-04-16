@@ -1,0 +1,3 @@
+record_id,source_classical_zh,target_modern_zh,translation_en,back_translation_modern_zh,book,chapter_path,line_index,chrf,bleu,edit_similarity,length_ratio,embedding_similarity,filter_reason
+老子/德经/第七十一章::1,圣人不病，以其病病。,不知道却自以为知道，这就是很糟糕的。,"Not knowing but thinking one knows, this is very bad.",不知道却自以为知道，这是非常糟糕的。,老子,老子/德经/第七十一章,1,65.04388721300487,72.76817202342096,0.8333333333333334,1.0,,
+老子/德经/第七十一章::2,夫唯病病，是以不病。,有道的圣人没有缺点，因为他把缺点当作缺点。,"The sage who possesses the Way has no shortcomings, because he regards shortcomings as shortcomings.",拥有道的圣人没有缺点，因为他把缺点视为缺点。,老子,老子/德经/第七十一章,2,76.83417700881964,77.393215404741,0.8636363636363636,1.0476190476190477,,

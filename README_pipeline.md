@@ -48,7 +48,7 @@ This version is intentionally an engineering-oriented corpus construction pipeli
 
 ## Environment Setup
 
-Python 3.10+ is required.
+Python 3.9+ is required.
 
 ```bash
 python3 -m pip install -r requirements.txt
