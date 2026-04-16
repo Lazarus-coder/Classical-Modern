@@ -1,0 +1,15 @@
+2026-04-15 17:50:58 | INFO | Log file: /Users/aojiang/Downloads/Classical-Modern-main/outputs_sample_lowcost/logs/run_all_20260415_175058.log
+2026-04-15 17:51:03 | INFO | Discovered 7304 aligned folders with 972467 total records.
+2026-04-15 17:51:08 | INFO | Translated 1 records so far (1 success, 0 failed, 0 skipped-complete).
+2026-04-15 17:51:13 | INFO | Translated 2 records so far (2 success, 0 failed, 0 skipped-complete).
+2026-04-15 17:51:17 | INFO | Translated 3 records so far (3 success, 0 failed, 0 skipped-complete).
+2026-04-15 17:51:22 | INFO | Translated 4 records so far (4 success, 0 failed, 0 skipped-complete).
+2026-04-15 17:51:26 | INFO | Translated 5 records so far (5 success, 0 failed, 0 skipped-complete).
+2026-04-15 17:51:26 | INFO | Translation stage complete: {"raw_output_path": "outputs_sample_lowcost/raw/translations.jsonl", "translated_records": 5, "successful_records": 5, "failed_records": 0, "skipped_completed_records": 0}
+2026-04-15 17:51:26 | INFO | Scored 1 records so far (1 passed filter, 0 skipped existing).
+2026-04-15 17:51:26 | INFO | Scored 2 records so far (2 passed filter, 0 skipped existing).
+2026-04-15 17:51:26 | INFO | Scored 3 records so far (2 passed filter, 0 skipped existing).
+2026-04-15 17:51:26 | INFO | Scored 4 records so far (2 passed filter, 0 skipped existing).
+2026-04-15 17:51:26 | INFO | Scored 5 records so far (2 passed filter, 0 skipped existing).
+2026-04-15 17:51:26 | INFO | Scoring stage complete: {"scored_output_path": "outputs_sample_lowcost/scored/translations_scored.jsonl", "processed_records": 5, "passed_records": 2, "skipped_existing_records": 0}
+2026-04-15 17:51:26 | INFO | Filtering stage complete: {"filtered_output_path": "outputs_sample_lowcost/filtered/high_quality_parallel.jsonl", "filtered_csv_path": "outputs_sample_lowcost/filtered/high_quality_parallel.csv", "passed_records_written": 2, "skipped_existing_records": 0, "total_filtered_records": 2}

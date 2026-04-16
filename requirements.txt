@@ -1,0 +1,7 @@
+requests>=2.31.0
+sacrebleu>=2.4.0
+rapidfuzz>=3.9.0
+pytest>=8.0.0
+# Optional for embedding similarity if you have a local multilingual model:
+# sentence-transformers>=3.0.0
+
